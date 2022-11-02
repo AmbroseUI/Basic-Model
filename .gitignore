@@ -1,4 +1,5 @@
 Private.txt
 Build
 config.txt
-temp.bin
+temp*
+BuildTest
